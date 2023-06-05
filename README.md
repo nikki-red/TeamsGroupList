@@ -4,9 +4,9 @@
 <p>--> Recyler view to show list of groups which on clicking will expand to show the description of the respective group</p>
 <p>--> Static bottom navigation bar</P>
 
-<p> Language used: Kotlin 
-  Framework: View Based (XML)
-  Note: View Binding used 
+<p> Language used: Kotlin </br>
+  Framework: View Based (XML) </br>
+  Note: View Binding used </br>
 </p>
 
 <h3>Screenshots of emulator</h3>
